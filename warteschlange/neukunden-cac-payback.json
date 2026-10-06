@@ -1,0 +1,48 @@
+{
+  "slug": "Neukunden-CAC und Payback",
+  "pillar": "Profit statt ROAS",
+  "caption": "Neukunden mit Verlust auf die erste Bestellung einzukaufen, kann richtig sein. Dann muss aber klar sein, nach wie vielen Tagen der Kunde seinen CAC zurückverdient hat.\n\nIn den Slides rechnen wir ein Beispiel durch: 42 Euro Neukunden-CAC, 30 Euro Deckungsbeitrag, Payback zwischen Tag 90 und Tag 180.\n\nDie Zahlen sind ein Beispiel. Die Rechnung kannst du mit deinen eigenen Kohorten nachbauen.\n\nWenn wir das für deinen Shop rechnen sollen: Link im Profil.\n\n#shopify #ecommerce #metaads",
+  "slides": [
+    {"type": "cover", "theme": "forest",
+     "title": "42 Euro CAC. 30 Euro aus der ersten Bestellung.",
+     "sub": "Wir rechnen durch, nach wie vielen Tagen der Neukunde im Plus ist.",
+     "hint": "Weiter wischen"},
+    {"type": "calc", "theme": "sand",
+     "title": "Die erste Bestellung",
+     "lines": [
+       {"label": "Bestellwert netto", "value": "60,00 €"},
+       {"label": "Variable Kosten", "value": "−30,00 €", "kind": "neg"},
+       {"label": "Neukunden-CAC", "value": "−42,00 €", "kind": "neg"},
+       {"label": "Ergebnis", "value": "−12,00 €", "kind": "sum"}
+     ],
+     "text": "Beispielzahlen. Variable Kosten sind Ware, Versand, Zahlung und Retouren. Der CAC gilt nur für Neukunden. Der Schnitt über alle Käufer sieht besser aus, weil Bestandskunden mitzählen.", "small": true},
+    {"type": "table", "theme": "sand",
+     "title": "Dann kommen die Wiederkäufe",
+     "head": ["Zeitpunkt", "Wiederkäufe je 100 Neukunden", "Stand je Kunde"],
+     "rows": [
+       ["Erstbestellung", "0", "−12,00 €"],
+       ["Nach 30 Tagen", "14", "−7,80 €"],
+       ["Nach 60 Tagen", "24", "−4,80 €"],
+       ["Nach 90 Tagen", "32", "−2,40 €"],
+       ["Nach 180 Tagen", "48", "+2,40 €"]
+     ],
+     "text": "Jeder Wiederkauf bringt wieder 30 Euro Deckungsbeitrag. Werbekosten für Bestandskunden sind hier nicht eingerechnet."},
+    {"type": "formula", "theme": "forest",
+     "title": "Der Punkt, an dem es kippt",
+     "formula": "12 € ÷ 30 € = 0,4",
+     "result": "40",
+     "text": "So viele Wiederkäufe je 100 Neukunden braucht es, bis der CAC verdient ist. Im Beispiel liegt das zwischen Tag 90 und Tag 180."},
+    {"type": "list", "theme": "sand",
+     "title": "Was wir daraus ableiten",
+     "rows": [
+       ["CAC-Ziel", "Wie hoch der CAC sein darf, hängt davon ab, wie viele Tage du vorfinanzieren kannst."],
+       ["Kohorten", "Wiederkäufe nach dem Monat der Erstbestellung auswerten."],
+       ["Zweitkauf", "Früher auslösen, zum Beispiel per E-Mail oder mit einem Angebot direkt nach dem Kauf."],
+       ["Erstkauf", "Bundles und Mengenstaffeln heben den Deckungsbeitrag der ersten Bestellung."]
+     ]},
+    {"type": "cta", "theme": "forest",
+     "title": "Wir rechnen den Payback für deinen Shop aus.",
+     "text": "Kostenlose Growth-Analyse für Shopify-Stores. Buchen kannst du sie auf der Website.",
+     "url": "ecomnex.de"}
+  ]
+}

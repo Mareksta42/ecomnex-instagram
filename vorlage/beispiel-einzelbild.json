@@ -1,0 +1,13 @@
+{
+  "slug": "Beispiel Einzelbild",
+  "pillar": "Profit statt ROAS",
+  "caption": "Beispiel für ein Einzelbild. Wird nicht gepostet.",
+  "slides": [
+    {
+      "type": "statement",
+      "theme": "forest",
+      "title": "Ein Neukunde, der sich erst nach 180 Tagen rechnet, braucht 180 Tage Liquidität.",
+      "text": "Der Payback entscheidet darüber, wie schnell ein Shop skalieren kann."
+    }
+  ]
+}

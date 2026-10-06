@@ -1,0 +1,16 @@
+{
+  "hinweis": "Protokoll aller Posts. Neueste Einträge unten.",
+  "posts": [
+    {
+      "datum": "2026-10-06",
+      "uhrzeit": "16:06",
+      "format": "karussell",
+      "saeule": "Ergebnisse und Case Studies",
+      "slug": "Case Study Beauty-Brand",
+      "titel": "Von 1,3 auf 1,7 Mio. Euro Jahresumsatz. In 8 Monaten.",
+      "case_study": "Beauty-Brand",
+      "ordner": "2026-10-06-case-study-beauty",
+      "quelle": "von Hand eingeplant"
+    }
+  ]
+}
