@@ -11,6 +11,18 @@
       "case_study": "Beauty-Brand",
       "ordner": "2026-10-06-case-study-beauty",
       "quelle": "von Hand eingeplant"
+    },
+    {
+      "datum": "2026-10-07",
+      "uhrzeit": "18:00",
+      "format": "einzelbild",
+      "saeule": "Conversion und Testing",
+      "slug": "Testsieger nach Deckungsbeitrag",
+      "titel": "12 % mehr Bestellungen. 500 Euro weniger verdient.",
+      "ordner": "posts/2026-10-07-testsieger-deckungsbeitrag",
+      "metricool_id": 390023415,
+      "quelle": "automatisch",
+      "inspiration": "Beiträge zu Tests an der Versandkostengrenze, bei denen Conversion Rate und Bestellwert in verschiedene Richtungen zeigen. Daraus wurde eine eigene Rechnung zum Deckungsbeitrag pro Besucher."
     }
   ]
 }
