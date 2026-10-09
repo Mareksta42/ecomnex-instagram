@@ -23,6 +23,18 @@
       "metricool_id": 390023415,
       "quelle": "automatisch",
       "inspiration": "Beiträge zu Tests an der Versandkostengrenze, bei denen Conversion Rate und Bestellwert in verschiedene Richtungen zeigen. Daraus wurde eine eigene Rechnung zum Deckungsbeitrag pro Besucher."
+    },
+    {
+      "datum": "2026-10-09",
+      "uhrzeit": "18:00",
+      "format": "karussell",
+      "saeule": "Profit statt ROAS",
+      "slug": "Neukunden-CAC und Payback",
+      "titel": "42 Euro CAC. 30 Euro aus der ersten Bestellung.",
+      "ordner": "posts/2026-10-09-neukunden-cac-payback",
+      "metricool_id": 391747417,
+      "quelle": "automatisch",
+      "inspiration": "Aus der Warteschlange übernommen, deshalb ohne Recherche in diesem Lauf. Blickwinkel: Neukunden-CAC gegen den Deckungsbeitrag der Erstbestellung und Payback über Wiederkäufe."
     }
   ]
 }
